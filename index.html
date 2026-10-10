@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Keep &amp; Claw</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/tower-defence-play/icon-32.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/tower-defence-play/icon-192.png" />
+    <link rel="apple-touch-icon" href="/tower-defence-play/icon-180.png" />
+    <style>
+      html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #000; overflow: hidden; touch-action: none; -webkit-user-select: none; user-select: none; }
+      #game { position: fixed; inset: 0; width: 100vw; height: 100dvh; }
+      /* M27: on a painted map the letterbox strips show a blurred copy of the painting (src/core/bar-fill.ts). */
+      #bar-fill {
+        position: fixed; inset: -60px; opacity: 0; transition: opacity 400ms;
+        background: #000 center / cover no-repeat; filter: blur(28px) brightness(0.6) saturate(1.1); pointer-events: none;
+      }
+      #safe-probe {
+        position: fixed; visibility: hidden; pointer-events: none;
+        padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+      }
+      /* Loading splash (M15): the logo until the title screen is ready (BootScene removes it). */
+      #splash { position: fixed; inset: 0; z-index: 5; background: #101418; display: flex; align-items: center; justify-content: center; pointer-events: none; }
+      #splash img { width: min(60vw, 110dvh); height: auto; }
+      #rotate {
+        display: none; position: fixed; inset: 0; z-index: 10; background: #111; color: #fff;
+        font: 24px sans-serif; align-items: center; justify-content: center; text-align: center;
+      }
+      @media (orientation: portrait) and (pointer: coarse) { #rotate { display: flex; } }
+    </style>
+    <script type="module" crossorigin src="/tower-defence-play/assets/index-oCsiVcWU.js"></script>
+  </head>
+  <body>
+    <div id="bar-fill"></div>
+    <div id="game"></div>
+    <div id="safe-probe"></div>
+    <div id="splash"><img src="/tower-defence-play/splash-logo.png" alt="Keep &amp; Claw" /></div>
+    <div id="rotate">Turn your phone sideways to play</div>
+  </body>
+</html>
