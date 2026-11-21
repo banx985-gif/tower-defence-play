@@ -1,0 +1,906 @@
+{
+ "textures": [
+  {
+   "image": "tavern_upgrade_4_p0.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 1731
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f19",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 499,
+      "h": 449
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 25,
+      "w": 499,
+      "h": 449
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f18",
+     "frame": {
+      "x": 501,
+      "y": 0,
+      "w": 492,
+      "h": 432
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 42,
+      "w": 492,
+      "h": 432
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f34",
+     "frame": {
+      "x": 995,
+      "y": 0,
+      "w": 401,
+      "h": 426
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 71,
+      "y": 48,
+      "w": 401,
+      "h": 426
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f35",
+     "frame": {
+      "x": 1398,
+      "y": 0,
+      "w": 401,
+      "h": 426
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 71,
+      "y": 48,
+      "w": 401,
+      "h": 426
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f36",
+     "frame": {
+      "x": 0,
+      "y": 451,
+      "w": 401,
+      "h": 426
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 71,
+      "y": 48,
+      "w": 401,
+      "h": 426
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f26",
+     "frame": {
+      "x": 403,
+      "y": 451,
+      "w": 475,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 49,
+      "w": 475,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f27",
+     "frame": {
+      "x": 880,
+      "y": 451,
+      "w": 477,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 49,
+      "w": 477,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f28",
+     "frame": {
+      "x": 1359,
+      "y": 451,
+      "w": 482,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 49,
+      "w": 482,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f29",
+     "frame": {
+      "x": 0,
+      "y": 879,
+      "w": 486,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 49,
+      "w": 486,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f30",
+     "frame": {
+      "x": 488,
+      "y": 879,
+      "w": 492,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 49,
+      "w": 492,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f31",
+     "frame": {
+      "x": 982,
+      "y": 879,
+      "w": 494,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 49,
+      "w": 494,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f32",
+     "frame": {
+      "x": 1478,
+      "y": 879,
+      "w": 489,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 49,
+      "w": 489,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f33",
+     "frame": {
+      "x": 0,
+      "y": 1306,
+      "w": 467,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 5,
+      "y": 49,
+      "w": 467,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f37",
+     "frame": {
+      "x": 469,
+      "y": 1306,
+      "w": 401,
+      "h": 425
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 71,
+      "y": 49,
+      "w": 401,
+      "h": 425
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f25",
+     "frame": {
+      "x": 872,
+      "y": 1306,
+      "w": 476,
+      "h": 422
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 52,
+      "w": 476,
+      "h": 422
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f20",
+     "frame": {
+      "x": 1350,
+      "y": 1306,
+      "w": 504,
+      "h": 421
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 53,
+      "w": 504,
+      "h": 421
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    }
+   ]
+  },
+  {
+   "image": "tavern_upgrade_4_p1.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 1966
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f22",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 493,
+      "h": 419
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 55,
+      "w": 493,
+      "h": 419
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f23",
+     "frame": {
+      "x": 495,
+      "y": 0,
+      "w": 480,
+      "h": 417
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 57,
+      "w": 480,
+      "h": 417
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f15",
+     "frame": {
+      "x": 977,
+      "y": 0,
+      "w": 470,
+      "h": 414
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 60,
+      "w": 470,
+      "h": 414
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f21",
+     "frame": {
+      "x": 1449,
+      "y": 0,
+      "w": 503,
+      "h": 413
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 61,
+      "w": 503,
+      "h": 413
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f24",
+     "frame": {
+      "x": 0,
+      "y": 421,
+      "w": 479,
+      "h": 411
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 63,
+      "w": 479,
+      "h": 411
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f05",
+     "frame": {
+      "x": 481,
+      "y": 421,
+      "w": 480,
+      "h": 392
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 480,
+      "h": 392
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f16",
+     "frame": {
+      "x": 963,
+      "y": 421,
+      "w": 470,
+      "h": 387
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 87,
+      "w": 470,
+      "h": 387
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f08",
+     "frame": {
+      "x": 1435,
+      "y": 421,
+      "w": 496,
+      "h": 383
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 496,
+      "h": 383
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f07",
+     "frame": {
+      "x": 0,
+      "y": 834,
+      "w": 485,
+      "h": 382
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 485,
+      "h": 382
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f09",
+     "frame": {
+      "x": 487,
+      "y": 834,
+      "w": 500,
+      "h": 382
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 500,
+      "h": 382
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f03",
+     "frame": {
+      "x": 989,
+      "y": 834,
+      "w": 463,
+      "h": 381
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 51,
+      "y": 145,
+      "w": 463,
+      "h": 381
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f04",
+     "frame": {
+      "x": 1454,
+      "y": 834,
+      "w": 424,
+      "h": 381
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 56,
+      "y": 145,
+      "w": 424,
+      "h": 381
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f06",
+     "frame": {
+      "x": 0,
+      "y": 1218,
+      "w": 482,
+      "h": 379
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 482,
+      "h": 379
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f14",
+     "frame": {
+      "x": 484,
+      "y": 1218,
+      "w": 478,
+      "h": 378
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 96,
+      "w": 478,
+      "h": 378
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f02",
+     "frame": {
+      "x": 964,
+      "y": 1218,
+      "w": 431,
+      "h": 375
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 46,
+      "y": 145,
+      "w": 431,
+      "h": 375
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f10",
+     "frame": {
+      "x": 1397,
+      "y": 1218,
+      "w": 503,
+      "h": 367
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 503,
+      "h": 367
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f17",
+     "frame": {
+      "x": 0,
+      "y": 1599,
+      "w": 479,
+      "h": 367
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 107,
+      "w": 479,
+      "h": 367
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f01",
+     "frame": {
+      "x": 481,
+      "y": 1599,
+      "w": 452,
+      "h": 360
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 13,
+      "y": 145,
+      "w": 452,
+      "h": 360
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f13",
+     "frame": {
+      "x": 935,
+      "y": 1599,
+      "w": 485,
+      "h": 358
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 116,
+      "w": 485,
+      "h": 358
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f11",
+     "frame": {
+      "x": 1422,
+      "y": 1599,
+      "w": 500,
+      "h": 345
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 500,
+      "h": 345
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    }
+   ]
+  },
+  {
+   "image": "tavern_upgrade_4_p2.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 345
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f12",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 495,
+      "h": 345
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 4,
+      "y": 129,
+      "w": 495,
+      "h": 345
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    },
+    {
+     "filename": "f00",
+     "frame": {
+      "x": 497,
+      "y": 0,
+      "w": 339,
+      "h": 328
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 102,
+      "y": 145,
+      "w": 339,
+      "h": 328
+     },
+     "sourceSize": {
+      "w": 526,
+      "h": 526
+     }
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "keepandclaw": {
+   "building": "building.tavern",
+   "tier": "mid",
+   "from_stage": "lv2",
+   "to_stage": "lv3",
+   "fps": 8,
+   "frame_count": 38,
+   "frames_in_order": [
+    "f00",
+    "f01",
+    "f02",
+    "f03",
+    "f04",
+    "f05",
+    "f06",
+    "f07",
+    "f08",
+    "f09",
+    "f10",
+    "f11",
+    "f12",
+    "f13",
+    "f14",
+    "f15",
+    "f16",
+    "f17",
+    "f18",
+    "f19",
+    "f20",
+    "f21",
+    "f22",
+    "f23",
+    "f24",
+    "f25",
+    "f26",
+    "f27",
+    "f28",
+    "f29",
+    "f30",
+    "f31",
+    "f32",
+    "f33",
+    "f34",
+    "f35",
+    "f36",
+    "f37"
+   ],
+   "canvas": [
+    526,
+    526
+   ],
+   "ground_anchor": [
+    271,
+    473
+   ],
+   "start_building_box": [
+    102,
+    145,
+    338,
+    328
+   ],
+   "end_building_box": [
+    71,
+    49,
+    400,
+    425
+   ],
+   "note": "Phaser multiatlas. Frames share one canvas (sourceSize). Put ground_anchor on the plot base; scale so end_building_box width = width the to_stage picture is drawn at."
+  }
+ }
+}

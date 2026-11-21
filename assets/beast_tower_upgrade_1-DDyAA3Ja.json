@@ -1,0 +1,1016 @@
+{
+ "textures": [
+  {
+   "image": "beast_tower_upgrade_1_p0.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 1997
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f27",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 465,
+      "h": 532
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 260,
+      "y": 320,
+      "w": 465,
+      "h": 532
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f17",
+     "frame": {
+      "x": 467,
+      "y": 0,
+      "w": 464,
+      "h": 529
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 247,
+      "y": 323,
+      "w": 464,
+      "h": 529
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f28",
+     "frame": {
+      "x": 933,
+      "y": 0,
+      "w": 474,
+      "h": 515
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 257,
+      "y": 337,
+      "w": 474,
+      "h": 515
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f20",
+     "frame": {
+      "x": 1409,
+      "y": 0,
+      "w": 451,
+      "h": 509
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 248,
+      "y": 343,
+      "w": 451,
+      "h": 509
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f18",
+     "frame": {
+      "x": 0,
+      "y": 534,
+      "w": 465,
+      "h": 507
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 246,
+      "y": 345,
+      "w": 465,
+      "h": 507
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f29",
+     "frame": {
+      "x": 467,
+      "y": 534,
+      "w": 479,
+      "h": 507
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 253,
+      "y": 345,
+      "w": 479,
+      "h": 507
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f19",
+     "frame": {
+      "x": 948,
+      "y": 534,
+      "w": 458,
+      "h": 490
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 246,
+      "y": 362,
+      "w": 458,
+      "h": 490
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f30",
+     "frame": {
+      "x": 1408,
+      "y": 534,
+      "w": 484,
+      "h": 490
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 248,
+      "y": 362,
+      "w": 484,
+      "h": 490
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f21",
+     "frame": {
+      "x": 0,
+      "y": 1043,
+      "w": 444,
+      "h": 485
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 252,
+      "y": 367,
+      "w": 444,
+      "h": 485
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f24",
+     "frame": {
+      "x": 446,
+      "y": 1043,
+      "w": 432,
+      "h": 478
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 275,
+      "y": 374,
+      "w": 432,
+      "h": 478
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f22",
+     "frame": {
+      "x": 880,
+      "y": 1043,
+      "w": 437,
+      "h": 467
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 262,
+      "y": 385,
+      "w": 437,
+      "h": 467
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f25",
+     "frame": {
+      "x": 1319,
+      "y": 1043,
+      "w": 446,
+      "h": 467
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 268,
+      "y": 385,
+      "w": 446,
+      "h": 467
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f31",
+     "frame": {
+      "x": 0,
+      "y": 1530,
+      "w": 493,
+      "h": 467
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 245,
+      "y": 385,
+      "w": 493,
+      "h": 467
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f26",
+     "frame": {
+      "x": 495,
+      "y": 1530,
+      "w": 455,
+      "h": 465
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 264,
+      "y": 387,
+      "w": 455,
+      "h": 465
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f32",
+     "frame": {
+      "x": 952,
+      "y": 1530,
+      "w": 496,
+      "h": 464
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 245,
+      "y": 388,
+      "w": 496,
+      "h": 464
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f23",
+     "frame": {
+      "x": 1450,
+      "y": 1530,
+      "w": 435,
+      "h": 460
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 266,
+      "y": 392,
+      "w": 435,
+      "h": 460
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    }
+   ]
+  },
+  {
+   "image": "beast_tower_upgrade_1_p1.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 2006
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f33",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 469,
+      "h": 449
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 274,
+      "y": 403,
+      "w": 469,
+      "h": 449
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f34",
+     "frame": {
+      "x": 471,
+      "y": 0,
+      "w": 427,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 283,
+      "y": 412,
+      "w": 427,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f35",
+     "frame": {
+      "x": 900,
+      "y": 0,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f36",
+     "frame": {
+      "x": 1303,
+      "y": 0,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f37",
+     "frame": {
+      "x": 0,
+      "y": 451,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f38",
+     "frame": {
+      "x": 403,
+      "y": 451,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f39",
+     "frame": {
+      "x": 806,
+      "y": 451,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f40",
+     "frame": {
+      "x": 1209,
+      "y": 451,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f41",
+     "frame": {
+      "x": 1612,
+      "y": 451,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f42",
+     "frame": {
+      "x": 0,
+      "y": 893,
+      "w": 401,
+      "h": 440
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 288,
+      "y": 412,
+      "w": 401,
+      "h": 440
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f04",
+     "frame": {
+      "x": 403,
+      "y": 893,
+      "w": 431,
+      "h": 342
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 258,
+      "y": 578,
+      "w": 431,
+      "h": 342
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f05",
+     "frame": {
+      "x": 836,
+      "y": 893,
+      "w": 435,
+      "h": 341
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 254,
+      "y": 578,
+      "w": 435,
+      "h": 341
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f12",
+     "frame": {
+      "x": 1273,
+      "y": 893,
+      "w": 500,
+      "h": 337
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 258,
+      "y": 578,
+      "w": 500,
+      "h": 337
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f11",
+     "frame": {
+      "x": 0,
+      "y": 1335,
+      "w": 499,
+      "h": 336
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 254,
+      "y": 578,
+      "w": 499,
+      "h": 336
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f03",
+     "frame": {
+      "x": 501,
+      "y": 1335,
+      "w": 408,
+      "h": 335
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 275,
+      "y": 578,
+      "w": 408,
+      "h": 335
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f06",
+     "frame": {
+      "x": 911,
+      "y": 1335,
+      "w": 448,
+      "h": 333
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 250,
+      "y": 578,
+      "w": 448,
+      "h": 333
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f10",
+     "frame": {
+      "x": 1361,
+      "y": 1335,
+      "w": 496,
+      "h": 333
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 252,
+      "y": 578,
+      "w": 496,
+      "h": 333
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f13",
+     "frame": {
+      "x": 0,
+      "y": 1673,
+      "w": 498,
+      "h": 333
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 258,
+      "y": 578,
+      "w": 498,
+      "h": 333
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f14",
+     "frame": {
+      "x": 500,
+      "y": 1673,
+      "w": 496,
+      "h": 329
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 255,
+      "y": 578,
+      "w": 496,
+      "h": 329
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f09",
+     "frame": {
+      "x": 998,
+      "y": 1673,
+      "w": 486,
+      "h": 326
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 250,
+      "y": 578,
+      "w": 486,
+      "h": 326
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f07",
+     "frame": {
+      "x": 1486,
+      "y": 1673,
+      "w": 465,
+      "h": 321
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 248,
+      "y": 578,
+      "w": 465,
+      "h": 321
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    }
+   ]
+  },
+  {
+   "image": "beast_tower_upgrade_1_p2.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 591
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f08",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 473,
+      "h": 315
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 248,
+      "y": 578,
+      "w": 473,
+      "h": 315
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f15",
+     "frame": {
+      "x": 475,
+      "y": 0,
+      "w": 487,
+      "h": 308
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 250,
+      "y": 578,
+      "w": 487,
+      "h": 308
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f02",
+     "frame": {
+      "x": 964,
+      "y": 0,
+      "w": 356,
+      "h": 281
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 311,
+      "y": 578,
+      "w": 356,
+      "h": 281
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f00",
+     "frame": {
+      "x": 1322,
+      "y": 0,
+      "w": 356,
+      "h": 274
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 311,
+      "y": 578,
+      "w": 356,
+      "h": 274
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f01",
+     "frame": {
+      "x": 0,
+      "y": 317,
+      "w": 372,
+      "h": 274
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 295,
+      "y": 578,
+      "w": 372,
+      "h": 274
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    },
+    {
+     "filename": "f16",
+     "frame": {
+      "x": 374,
+      "y": 317,
+      "w": 472,
+      "h": 274
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 248,
+      "y": 578,
+      "w": 472,
+      "h": 274
+     },
+     "sourceSize": {
+      "w": 948,
+      "h": 948
+     }
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "keepandclaw": {
+   "building": "building.beast_tower",
+   "tier": "big",
+   "from_stage": "ruins",
+   "to_stage": "lv1",
+   "fps": 12,
+   "frame_count": 43,
+   "frames_in_order": [
+    "f00",
+    "f01",
+    "f02",
+    "f03",
+    "f04",
+    "f05",
+    "f06",
+    "f07",
+    "f08",
+    "f09",
+    "f10",
+    "f11",
+    "f12",
+    "f13",
+    "f14",
+    "f15",
+    "f16",
+    "f17",
+    "f18",
+    "f19",
+    "f20",
+    "f21",
+    "f22",
+    "f23",
+    "f24",
+    "f25",
+    "f26",
+    "f27",
+    "f28",
+    "f29",
+    "f30",
+    "f31",
+    "f32",
+    "f33",
+    "f34",
+    "f35",
+    "f36",
+    "f37",
+    "f38",
+    "f39",
+    "f40",
+    "f41",
+    "f42"
+   ],
+   "canvas": [
+    948,
+    948
+   ],
+   "ground_anchor": [
+    489,
+    852
+   ],
+   "start_building_box": [
+    311,
+    579,
+    356,
+    273
+   ],
+   "end_building_box": [
+    289,
+    412,
+    400,
+    440
+   ],
+   "note": "Phaser multiatlas. Frames share one canvas (sourceSize). Put ground_anchor on the plot base; scale so end_building_box width = width the to_stage picture is drawn at."
+  }
+ }
+}

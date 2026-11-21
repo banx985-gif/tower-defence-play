@@ -1,0 +1,763 @@
+{
+ "textures": [
+  {
+   "image": "blacksmith_upgrade_3_p0.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 1782
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f03",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 436,
+      "h": 516
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 92,
+      "y": 92,
+      "w": 436,
+      "h": 516
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f01",
+     "frame": {
+      "x": 438,
+      "y": 0,
+      "w": 409,
+      "h": 476
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 110,
+      "y": 119,
+      "w": 409,
+      "h": 476
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f04",
+     "frame": {
+      "x": 849,
+      "y": 0,
+      "w": 440,
+      "h": 457
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 87,
+      "y": 142,
+      "w": 440,
+      "h": 457
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f05",
+     "frame": {
+      "x": 1291,
+      "y": 0,
+      "w": 452,
+      "h": 456
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 85,
+      "y": 141,
+      "w": 452,
+      "h": 456
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f02",
+     "frame": {
+      "x": 0,
+      "y": 518,
+      "w": 433,
+      "h": 434
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 100,
+      "y": 172,
+      "w": 433,
+      "h": 434
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f10",
+     "frame": {
+      "x": 435,
+      "y": 518,
+      "w": 459,
+      "h": 431
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 95,
+      "y": 140,
+      "w": 459,
+      "h": 431
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f07",
+     "frame": {
+      "x": 896,
+      "y": 518,
+      "w": 472,
+      "h": 430
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 89,
+      "y": 174,
+      "w": 472,
+      "h": 430
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f22",
+     "frame": {
+      "x": 1370,
+      "y": 518,
+      "w": 478,
+      "h": 418
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 86,
+      "y": 141,
+      "w": 478,
+      "h": 418
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f21",
+     "frame": {
+      "x": 0,
+      "y": 954,
+      "w": 473,
+      "h": 417
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 86,
+      "y": 142,
+      "w": 473,
+      "h": 417
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f06",
+     "frame": {
+      "x": 475,
+      "y": 954,
+      "w": 463,
+      "h": 413
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 85,
+      "y": 187,
+      "w": 463,
+      "h": 413
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f23",
+     "frame": {
+      "x": 940,
+      "y": 954,
+      "w": 474,
+      "h": 413
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 88,
+      "y": 146,
+      "w": 474,
+      "h": 413
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f20",
+     "frame": {
+      "x": 1416,
+      "y": 954,
+      "w": 470,
+      "h": 412
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 87,
+      "y": 147,
+      "w": 470,
+      "h": 412
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f28",
+     "frame": {
+      "x": 0,
+      "y": 1373,
+      "w": 400,
+      "h": 409
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 121,
+      "y": 151,
+      "w": 400,
+      "h": 409
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f29",
+     "frame": {
+      "x": 402,
+      "y": 1373,
+      "w": 400,
+      "h": 409
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 121,
+      "y": 151,
+      "w": 400,
+      "h": 409
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f30",
+     "frame": {
+      "x": 804,
+      "y": 1373,
+      "w": 400,
+      "h": 409
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 121,
+      "y": 151,
+      "w": 400,
+      "h": 409
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f24",
+     "frame": {
+      "x": 1206,
+      "y": 1373,
+      "w": 456,
+      "h": 408
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 95,
+      "y": 151,
+      "w": 456,
+      "h": 408
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    }
+   ]
+  },
+  {
+   "image": "blacksmith_upgrade_3_p1.png",
+   "format": "RGBA8888",
+   "size": {
+    "w": 2048,
+    "h": 1536
+   },
+   "scale": 1,
+   "frames": [
+    {
+     "filename": "f25",
+     "frame": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 408
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 106,
+      "y": 151,
+      "w": 430,
+      "h": 408
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f26",
+     "frame": {
+      "x": 432,
+      "y": 0,
+      "w": 422,
+      "h": 408
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 104,
+      "y": 151,
+      "w": 422,
+      "h": 408
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f27",
+     "frame": {
+      "x": 856,
+      "y": 0,
+      "w": 400,
+      "h": 408
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 121,
+      "y": 151,
+      "w": 400,
+      "h": 408
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f31",
+     "frame": {
+      "x": 1258,
+      "y": 0,
+      "w": 400,
+      "h": 408
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 121,
+      "y": 151,
+      "w": 400,
+      "h": 408
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f18",
+     "frame": {
+      "x": 0,
+      "y": 410,
+      "w": 455,
+      "h": 404
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 98,
+      "y": 155,
+      "w": 455,
+      "h": 404
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f19",
+     "frame": {
+      "x": 457,
+      "y": 410,
+      "w": 466,
+      "h": 398
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 93,
+      "y": 161,
+      "w": 466,
+      "h": 398
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f09",
+     "frame": {
+      "x": 925,
+      "y": 410,
+      "w": 466,
+      "h": 394
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 100,
+      "y": 208,
+      "w": 466,
+      "h": 394
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f17",
+     "frame": {
+      "x": 1393,
+      "y": 410,
+      "w": 444,
+      "h": 391
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 103,
+      "y": 168,
+      "w": 444,
+      "h": 391
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f08",
+     "frame": {
+      "x": 0,
+      "y": 816,
+      "w": 473,
+      "h": 374
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 95,
+      "y": 232,
+      "w": 473,
+      "h": 374
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f11",
+     "frame": {
+      "x": 475,
+      "y": 816,
+      "w": 450,
+      "h": 365
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 92,
+      "y": 194,
+      "w": 450,
+      "h": 365
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f16",
+     "frame": {
+      "x": 927,
+      "y": 816,
+      "w": 428,
+      "h": 364
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 111,
+      "y": 195,
+      "w": 428,
+      "h": 364
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f12",
+     "frame": {
+      "x": 1357,
+      "y": 816,
+      "w": 445,
+      "h": 352
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 90,
+      "y": 207,
+      "w": 445,
+      "h": 352
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f15",
+     "frame": {
+      "x": 0,
+      "y": 1192,
+      "w": 429,
+      "h": 344
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 105,
+      "y": 215,
+      "w": 429,
+      "h": 344
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f14",
+     "frame": {
+      "x": 431,
+      "y": 1192,
+      "w": 435,
+      "h": 324
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 96,
+      "y": 235,
+      "w": 435,
+      "h": 324
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f13",
+     "frame": {
+      "x": 868,
+      "y": 1192,
+      "w": 440,
+      "h": 307
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 92,
+      "y": 252,
+      "w": 440,
+      "h": 307
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    },
+    {
+     "filename": "f00",
+     "frame": {
+      "x": 1310,
+      "y": 1192,
+      "w": 348,
+      "h": 289
+     },
+     "rotated": false,
+     "trimmed": true,
+     "spriteSourceSize": {
+      "x": 147,
+      "y": 270,
+      "w": 348,
+      "h": 289
+     },
+     "sourceSize": {
+      "w": 622,
+      "h": 622
+     }
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "keepandclaw": {
+   "building": "building.blacksmith",
+   "tier": "mid",
+   "from_stage": "construction",
+   "to_stage": "lv2",
+   "fps": 8,
+   "frame_count": 32,
+   "frames_in_order": [
+    "f00",
+    "f01",
+    "f02",
+    "f03",
+    "f04",
+    "f05",
+    "f06",
+    "f07",
+    "f08",
+    "f09",
+    "f10",
+    "f11",
+    "f12",
+    "f13",
+    "f14",
+    "f15",
+    "f16",
+    "f17",
+    "f18",
+    "f19",
+    "f20",
+    "f21",
+    "f22",
+    "f23",
+    "f24",
+    "f25",
+    "f26",
+    "f27",
+    "f28",
+    "f29",
+    "f30",
+    "f31"
+   ],
+   "canvas": [
+    622,
+    622
+   ],
+   "ground_anchor": [
+    320,
+    559
+   ],
+   "start_building_box": [
+    147,
+    270,
+    347,
+    289
+   ],
+   "end_building_box": [
+    121,
+    151,
+    400,
+    408
+   ],
+   "note": "Phaser multiatlas. Frames share one canvas (sourceSize). Put ground_anchor on the plot base; scale so end_building_box width = width the to_stage picture is drawn at."
+  }
+ }
+}
